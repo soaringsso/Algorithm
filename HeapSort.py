@@ -32,3 +32,4 @@ def heap_sort(A):
         Hs += 1
         n -= 1
         heapify_down(A, 0, n)
+        
