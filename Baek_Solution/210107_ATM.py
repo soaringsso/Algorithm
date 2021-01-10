@@ -1,3 +1,5 @@
+#백준 11399 권소희
+
 def Min(arr):
     S = 0
     result = []
