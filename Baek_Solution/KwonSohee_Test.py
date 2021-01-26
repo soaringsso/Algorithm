@@ -1,6 +1,5 @@
 # 0123 testing 
 
-
 def func(a):
   pass
 
